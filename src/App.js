@@ -22,7 +22,7 @@ function App() {
                    <div className="hero-content-line-inner"> Exemple lover    </div>
                  </div>
                  <div className="hero-content-line"> 
-                   <div className="hero-content-line-inner"> Isaura António  </div>
+                   <div className="hero-content-line-inner"> Isaura Antóniy </div>
                  </div>
                </h1>
                <p>
