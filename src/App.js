@@ -19,10 +19,10 @@ function App() {
                    <div className="hero-content-line-inner"> Yuri Domingos  </div>
                  </div>
                  <div className="hero-content-line"> 
-                   <div className="hero-content-line-inner"> of disease caused   </div>
+                   <div className="hero-content-line-inner"> Exemple lover    </div>
                  </div>
                  <div className="hero-content-line"> 
-                   <div className="hero-content-line-inner"> by behavior   </div>
+                   <div className="hero-content-line-inner"> Isaura António  </div>
                  </div>
                </h1>
                <p>
